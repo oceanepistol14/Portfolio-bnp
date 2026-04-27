@@ -39,7 +39,7 @@ body {
 .gauche {
   font-size: 2rem;
   animation: apparition 0.6s ease 0.2s forwards;
-  colors: #F1FFE8;
+  color: #F1FFE8;
 }
 
 .carte {
