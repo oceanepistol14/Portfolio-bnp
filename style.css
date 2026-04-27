@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(90deg, #426E2B, #93B88A, #BDD1D9, #32482D);
+  background: linear-gradient(90deg, #426E2B, #93B88A, #B5E695, #32482D);
   background-size: 400% 400%;
   animation: degrade 7s ease infinite;
   min-height: 100vh;
